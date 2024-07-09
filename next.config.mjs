@@ -4,4 +4,4 @@ const nextConfig = {
     assetPrefix: '/project-portfolio/',
   };
   
-  export default nextConfig;
+  export default nextConfig; 
