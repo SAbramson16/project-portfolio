@@ -42,7 +42,7 @@ export default function Home() {
                     </div>
 
                     <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600">
-                        <a href="www.linkedin.com/in/sharon-abramson"><AiFillLinkedin></AiFillLinkedin></a>
+                        <a href="https://www.linkedin.com/in/sharon-abramson"><AiFillLinkedin></AiFillLinkedin></a>
                         <a href="https://github.com/SAbramson16"><AiFillGithub></AiFillGithub></a>
                     </div>
 
