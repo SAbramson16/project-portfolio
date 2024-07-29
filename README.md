@@ -18,6 +18,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Usage
 
-Visit deployed application at: https://project-portfolio-hekg.onrender.com/
+Visit deployed application at: https://sabramson-portfolio-2cc6f75553e2.herokuapp.com/
 
 Toggle dark mode by clicking on the moon icon in the top right corner. Click on the "Resume" button to download resume PDF.

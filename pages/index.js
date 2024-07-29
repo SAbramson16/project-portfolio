@@ -37,8 +37,8 @@ export default function Home() {
 
                     <div className="text-center p-10">
                         <h2 className="text-5xl py-2 text-teal-600 font-medium md:text-6xl">Sharon Abramson</h2>
-                        <h3 className="text-2xl py-2 md:text-3xl dark:text-white">Developer | Problem Solver | Lifelong Learner</h3>
-                        <p className="text-md py-5 leading-6 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-white">Full stack developer passionate about contributing to innovative projects. Let&apos;s get in touch!</p>
+                        <h3 className="text-2xl py-2 md:text-3xl dark:text-white">Creative Thinker | Problem Solver | Lifelong Learner</h3>
+                        <p className="text-md py-5 leading-6 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-white">Dedicated Full Stack Developer with a passion for problem-solving and continuous learning. Known for my strong communication skills and ability to create user-friendly, responsive web interfaces, I thrive in collaborative environments and am committed to helping clients achieve their goals. Let&apos;s get in touch!</p>
                     </div>
 
                     <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600">
@@ -53,8 +53,8 @@ export default function Home() {
 
                 <section>
                     <div>
-                        <h3 className="text-3xl py-1 text-center mt-5 dark:text-white">My Projects</h3>
-                        <p className="text-md py-5 leading-6 text-gray-800 text-center dark:text-white">
+                        <h3 className="text-3xl py-1 text-center mt-5 dark:text-white md:text-5xl">My Projects</h3>
+                        <p className="text-md py-5 leading-6 text-gray-800 text-center dark:text-white md:text-xl">
                             Click on a project image to see the deployed project and the link below to view the repository on GitHub!
                         </p>
                     </div>
